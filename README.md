@@ -25,10 +25,6 @@ the following:
 	! 01 02 03 04 05 | 06
 
 Then run it through `powerball` and you'll know which ones are winners!
-`powerball` uses ansi color codes by default.
-
-Note: `powerball` only supports one winning number. Input files are read one
-line at a time. In the event of multiple winning numbers in the file
 
 
 How to Build
