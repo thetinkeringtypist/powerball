@@ -1,0 +1,30 @@
+#! Object and Executable files
+*.o
+a.out
+powerball
+
+#! Libraries
+*.so
+*.a
+*.dll
+
+#! Log files
+*.log
+
+#! Autotools files
+configure.scan
+config.status
+autom4te.cache/*
+missing
+install-sh
+Makefile
+stamp-h1
+depcomp
+config.h
+src/.deps
+
+#! Resource Files
+res/license-header
+
+#! Backup files
+*~
