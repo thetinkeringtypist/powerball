@@ -1,5 +1,6 @@
 /**
  * libdstructs: a simple, generic data structures library written in ANSI C.
+ * For more, see: https://github.com/bezeredi/libdstructs
  *
  * Copyright (C) 2013, 2014 Evan Bezeredi <bezeredi.dev@gmail.com>
  *
